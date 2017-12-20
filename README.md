@@ -1,12 +1,12 @@
 # Applied Data Science with Python Specialization
 
-The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. 
+The 5 courses in the University of Michigan specialization introduce learners to data science through the python programming language. 
 
 ## 
 
 ### Introduction
 
-This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Introduction to Data Science in Python on Coursera](https://www.coursera.org/learn/python-data-analysis).
+This repo contains all my work for this course. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Introduction to Data Science in Python on Coursera](https://www.coursera.org/learn/python-data-analysis).
 
 ### Lectures Jupyter Notebooks
 
